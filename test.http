@@ -1,0 +1,2 @@
+# Trigger the /computer endpoint.
+GET http://localhost:3000/computer
